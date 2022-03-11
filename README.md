@@ -5,3 +5,4 @@
 <img src="cmd.png" alt="what to put in cmd">
 <p> Lastly check your file path and check the csv file<p>
 <img src="folder.png" alt="foler">
+<img src="excel.png" alt="excel">
